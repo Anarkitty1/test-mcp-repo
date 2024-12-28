@@ -1,3 +1,1 @@
-# Hello MCP!
-
-This is a test file created using the GitHub MCP server.
+IyBIZWxsbyBNQ1AhCgpUaGlzIGlzIGEgdGVzdCBmaWxlIGNyZWF0ZWQgdXNpbmcgdGhlIEdpdEh1YiBNQ1Agc2VydmVyLg==
